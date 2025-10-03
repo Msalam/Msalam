@@ -31,7 +31,7 @@ I enjoy solving problems, building projects, and continuously learning new techn
 ## 🏆 Certificates & Achievements
 - 🎓 Python Basics for Beginners – *LinkedIn Learning*  
 - 🎓 SQL Foundations – *LinkedIn Learning*  
-- 🏅 Ongoing learning in **Data Science & Machine Learning**  
+- 🏅 Ongoing learning in **Data Science & Machine Learning @ DEPI**  
 
 ---
 
