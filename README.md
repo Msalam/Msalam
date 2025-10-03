@@ -1,6 +1,6 @@
 # Hi there! Welcome to my GitHub Profile! 👋  
 
-I’m **Mohamed Sallam**, a **Mechanical Power Engineer & Quality Engineer**, passionate about:  
+I’m **Mohamed Sallam**, a **Data Analyst & Web Scrapper & Data Science Learner**, passionate about:  
 - 🐍 **Python Development**  
 - 📊 **Data Science & SQL**  
 - 🌐 **Web Scraping & Automation**  
@@ -10,9 +10,21 @@ I enjoy solving problems, building projects, and continuously learning new techn
 ---
 
 ## 🚀 Featured Projects
-- 🐍 **Python Turtle Snake Game**  
-- 📥 **YouTube Video Downloader Program**  
-- 📊 **Data Science Learner | SQL Learner | Python Developer**  
+
+### 🐍 Python Projects
+- **Python Turtle Snake Game** 🐍 – A fun snake game built with Python Turtle.  
+- **YouTube Video Downloader Program** 📥 – Download YouTube videos easily with Python.  
+- **Vowel Counter Program** 🔤 – Counts vowels in a sentence using Python.  
+- **List Doubling Program** ➗ – Doubles each element in a list and returns a new list.  
+
+### 📊 Data Science & SQL Projects
+- **SQL Case Study Analysis (SQLite)** 🗂 – Analyzed GDP indicators, Brazil vs China GDP per capita, and world rankings using SQL queries.  
+- **Customer Orders Schema Queries** 🛒 – Answered real business questions (top customers by spend, products with highest sales, delivery regions, etc.).  
+- **Employee Database Management** 👨‍💻 – Created MySQL database, stored procedures for employee hours, hires in last 30 days, and department employee counts.  
+- **Data Cleaning & Analysis Notebook** 📓 – Jupyter notebook with NumPy and pandas exercises.  
+
+### 🌐 Web Scraping & Automation
+- **E-Commerce Product Scraper** 🛍 – Scraped product data (name, price, description, rating, reviews) from [webscraper.io](https://webscraper.io/test-sites/e-commerce/allinone) into structured dictionaries and DataFrames.  
 
 ---
 
